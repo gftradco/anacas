@@ -2,7 +2,7 @@
 
 #### Anacas coin is a fast and private cryptocurrency. The name comes from the offical currency of Anacas, Temunza.
 
-[![Discord](https://img.shields.io/discord/388915017187328002?label=TurtleCoin%20Discord)](http://chat.turtlecoin.lol) [![GitHub All Releases](https://img.shields.io/github/downloads/turtlecoin/turtlecoin/total?label=Downloads)](http://latest.turtlecoin.lol) [![GitHub contributors](https://img.shields.io/github/contributors-anon/turtlecoin/turtlecoin?label=Contributors)](https://github.com/turtlecoin/turtlecoin/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/turtlecoin/turtlecoin?label=Issues)](https://github.com/turtlecoin/turtlecoin/issues) ![GitHub stars](https://img.shields.io/github/stars/turtlecoin/turtlecoin?label=Github%20Stars)
+// [![Discord](https://img.shields.io/discord/388915017187328002?label=TurtleCoin%20Discord)](http://chat.turtlecoin.lol) [![GitHub All Releases](https://img.shields.io/github/downloads/turtlecoin/turtlecoin/total?label=Downloads)](http://latest.turtlecoin.lol) [![GitHub contributors](https://img.shields.io/github/contributors-anon/turtlecoin/turtlecoin?label=Contributors)](https://github.com/turtlecoin/turtlecoin/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/turtlecoin/turtlecoin?label=Issues)](https://github.com/turtlecoin/turtlecoin/issues) ![GitHub stars](https://img.shields.io/github/stars/turtlecoin/turtlecoin?label=Github%20Stars)
 
 ### Contributing to Anacas
 
