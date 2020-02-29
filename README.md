@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/34389545/35821974-62e0e25c-0a70-11e8-87dd-2cfffeb6ed47.png)
+![image](https://github.com/gftradco/anacas/blob/development/anacasName.png)
 
 #### Anacas coin is a fast and private cryptocurrency. The name comes from the offical currency of Anacas, Temunza.
 
