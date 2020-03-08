@@ -7,22 +7,18 @@
 
 #include <string>
 
-const std::string windowsAsciiArt = "\n                                                \n"
-                                    "    /\                                            \n" 
+const std::string windowsAsciiArt = "/n  /\                                            \n" 
                                     "   /  \   _ __   __ _  ___ __ _ ___               \n"
                                     "  / /\ \ | '_ \ / _` |/ __/ _` / __|              \n" 
                                     " / ____ \| | | | (_| | (_| (_| \__ \              \n"
-                                    "/_/    \_\_| |_|\__,_|\___\__,_|___/              \n"  
-                                    "\n                                                \n";
+                                    "/_/    \_\_| |_|\__,_|\___\__,_|___/              \n";  
+                                    
 
-const std::string nonWindowsAsciiArt = 
-                                    "\n                                                \n"
-                                    "    /\                                            \n" 
-                                    "   /  \   _ __   __ _  ___ __ _ ___               \n"
-                                    "  / /\ \ | '_ \ / _` |/ __/ _` / __|              \n" 
-                                    " / ____ \| | | | (_| | (_| (_| \__ \              \n"
-                                    "/_/    \_\_| |_|\__,_|\___\__,_|___/              \n"  
-                                    "\n                                                \n";
+const std::string nonWindowsAsciiArt  "/n  /\                                            \n" 
+                                      "   /  \   _ __   __ _  ___ __ _ ___               \n"
+                                      "  / /\ \ | '_ \ / _` |/ __/ _` / __|              \n" 
+                                      " / ____ \| | | | (_| | (_| (_| \__ \              \n"
+                                      "/_/    \_\_| |_|\__,_|\___\__,_|___/              \n";  
 
 /* Windows has some characters it won't display in a terminal. If your ascii
    art works fine on Windows and Linux terminals, just replace 'asciiArt' with
