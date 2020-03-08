@@ -4,7 +4,7 @@
 _Note: Lukas is in the process of working on this project. Many thanks to the TurtleCoin community for helping him get this project started_
 <!---
 [![Discord](https://img.shields.io/discord/388915017187328002?label=OfferingsToCthulhu)](https://discord.gg/nZdbAW) [![GitHub All Releases](https://img.shields.io/github/downloads/turtlecoin/turtlecoin/total?label=Downloads)](http://latest.turtlecoin.lol) [![GitHub contributors](https://img.shields.io/github/contributors-anon/turtlecoin/turtlecoin?label=Contributors)](https://github.com/turtlecoin/turtlecoin/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/turtlecoin/turtlecoin?label=Issues)](https://github.com/turtlecoin/turtlecoin/issues) ![GitHub stars](https://img.shields.io/github/stars/turtlecoin/turtlecoin?label=Github%20Stars)
---->
+
 ### Contributing to Anacas
 
 We are a community of people across the world giving our time to make this software better. There are many ways you can help or join us:
@@ -44,10 +44,12 @@ Hello, and thank you for helping us! Our work makes use of many brilliant projec
 
 See [src/config/CryptoNoteConfig.h](https://github.com/turtlecoin/turtlecoin/commit/28cfef2575f2d767f6e512f2a4017adbf44e610e) for an example.
 
+--->
 ```
 // Copyright (c) 2012-2017, The CryptoNote developers, The Bytecoin developers
 // Copyright (c) 2014-2018, The Monero Project
 // Copyright (c) 2018-2020, The TurtleCoin Developers
+// Copyright (c) 2020,      Anacas Steel Developers
 //
 // Please see the included LICENSE file for more information.
 ```
