@@ -1,4 +1,5 @@
 // Copyright (c) 2018, The TurtleCoin Developers
+// Copyright (c) 2020, Anacas Steel Developers
 //
 // Please see the included LICENSE file for more information
 
@@ -6,12 +7,13 @@
 
 #include <string>
 
-const std::string windowsAsciiArt = "\n _______         _   _       _____      _        \n"
-                                    "|__   __|       | | | |     / ____|    (_)      \n"
-                                    "   | |_   _ _ __| |_| | ___| |     ___  _ _ __  \n"
-                                    "   | | | | | '__| __| |/ _ \\ |    / _ \\| | '_ \\ \n"
-                                    "   | | |_| | |  | |_| |  __/ |___| (_) | | | | |\n"
-                                    "   |_|\\__ _|_|   \\__|_|\\___|\\_____\\___/|_|_| |_|\n";
+const std::string windowsAsciiArt = "\n                                                \n"
+                                    "    /\                                            \n" 
+                                    "   /  \   _ __   __ _  ___ __ _ ___               \n"
+                                    "  / /\ \ | '_ \ / _` |/ __/ _` / __|              \n" 
+                                    " / ____ \| | | | (_| | (_| (_| \__ \              \n"
+                                    "/_/    \_\_| |_|\__,_|\___\__,_|___/              \n"  
+                                    "\n                                                \n";
 
 const std::string nonWindowsAsciiArt =
     "\n                                                                            \n"
